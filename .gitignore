@@ -1,2 +1,2 @@
-﻿db*
-animepicker/settings.py
+﻿*.sqlite3
+animepicker/settings_local.py
